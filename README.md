@@ -113,7 +113,7 @@ The sample URI can be found in the deployment script (deploy/DeployWeatherNft.js
 ## Quickstart
 
 ```bash
-git clone https://github.com/[your-username]/weather-witness
+git clone https://github.com/CodeHawks-Contests/2025-05-weather-witness.git
 cd weather-witness
 ```
 
